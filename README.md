@@ -19,10 +19,11 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from ta
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
 📈 my github stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=purmonth&show_icons=true&theme=cobalt" alt="purmonth" />
