@@ -5,7 +5,8 @@
 
 hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
- <img align="right" alt="GIF" src="https://github.com/purmonth/purmonth/blob/master/git-image.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147907488-da7c1fd6-d0bf-489a-9fa9-0c92e7405d91.gif" width="450" height="288" />
+
 
 **languages and tools:**  
 
@@ -21,11 +22,9 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from ta
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
-
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=purmonth&show_icons=true&theme=cobalt" alt="purmonth" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=purmonth&show_icons=true&theme=cobalt" alt="purmonth" />
+ 
