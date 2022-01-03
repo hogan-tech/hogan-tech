@@ -24,7 +24,11 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from ta
 <br />
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     50 mins         ██████████████████▒░░░░░░   73.21 % 
+Python       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+YAML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 <!--END_SECTION:waka-->
 
