@@ -3,7 +3,7 @@
 
 <br />
 
-hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 **languages and tools:**  
 
