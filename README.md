@@ -18,5 +18,7 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from ta
 
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
