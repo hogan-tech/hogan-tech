@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-
-<br />
+<details><summary>Portfolio-CLICK ME</summary>
+NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
+NCKU Bill Platform：https://pay.ufo.ncku.edu.tw/mobilepay/ <br />
+NUTN USR：http://tfre.nutn.edu.tw/ <br />
+Ansir：https://www.ansir.com.tw/ <br />
+Ainimal：https://official.ainimal.io/#/ <br />
+</details>
 
 hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -23,31 +28,20 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frentend web developer from ta
 📊 **this week i spent my time on:**
 <br />
 <!--START_SECTION:waka-->
-```text
-Markdown     50 mins         ██████████████████▒░░░░░░   73.21 % 
-Python       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-YAML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
+
 <!--END_SECTION:waka-->
 
 <br />
 <br />
 <br />
 <br />
-
-<details><summary>Portfolio-CLICK ME</summary>
-NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php 
-NCKU Bill Platform：https://pay.ufo.ncku.edu.tw/mobilepay/ 
-NUTN USR：http://tfre.nutn.edu.tw/ 
-Ansir：https://www.ansir.com.tw/ 
-Ainimal：https://official.ainimal.io/#/
-<p>
-
-<br />
-<br />
 📈 my github stats
 <br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=purmonth&show_icons=true&theme=gruvbox" alt="purmonth" />
+<br />
+ 
+ 
+
+
+
  
