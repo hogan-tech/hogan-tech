@@ -29,11 +29,11 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frontend web developer from ta
 <br />
 <!--START_SECTION:waka-->
 ```text
-C++      5 hrs 37 mins   ██████████████████░░░░░░░   72.56 % 
-Python   1 hr 49 mins    ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-CSV      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Text     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Vue.js   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C++          4 hrs 40 mins   █████████████░░░░░░░░░░░░   51.94 % 
+Python       1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Vue.js       1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+JavaScript   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+CSV          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
 
