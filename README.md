@@ -30,12 +30,12 @@ hi, i'm [Hung Yueh Lin], a passionate self-taught frontend web developer from ta
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 15 mins   ████████████▓░░░░░░░░░░░░   51.25 %
-HTML         2 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-Dart         1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-C#           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-C++          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript   5 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.41 %
+HTML         2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+Dart         1 hr 47 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+C#           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+C++          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
