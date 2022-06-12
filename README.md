@@ -8,7 +8,7 @@ Ansir：https://www.ansir.com.tw/ <br />
 Ainimal：https://official.ainimal.io/#/ <br />
 </details>
 
-hi, i'm [Hung Yueh Lin], a passionate self-taught frontend web developer from taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Hogan Lin], a passionate self-taught frontend web developer from taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="288" />
 
