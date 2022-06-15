@@ -30,12 +30,12 @@ hi, i'm [Hogan Lin], a passionate self-taught frontend web developer from taiwan
 <!--START_SECTION:waka-->
 
 ```text
-C#              6 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-HTML            4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-C++             3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Vue.js          3 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-YAML            2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-JavaScript      52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+C#              6 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
+HTML            4 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+C++             3 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Vue.js          2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+JavaScript      1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+YAML            1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
