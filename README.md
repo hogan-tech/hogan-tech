@@ -30,8 +30,8 @@ hi, i'm [Hogan Lin], a passionate self-taught frontend web developer from taiwan
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 47 mins  ███████████████████▓░░░░░   78.93 %
-Other        2 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+TypeScript   13 hrs 32 mins  █████████████████████░░░░   84.22 %
+Other        2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
 ```
 
 <!--END_SECTION:waka-->
