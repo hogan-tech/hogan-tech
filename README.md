@@ -30,12 +30,12 @@ hi, i'm [Hogan Lin], a passionate self-taught frontend web developer from taiwan
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 47 mins   ████████████████████░░░░░   79.93 %
-JavaScript   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Dart         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   7 hrs 47 mins   ████████████████████▒░░░░   81.18 %
+JavaScript   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Dart         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
