@@ -30,12 +30,12 @@ hi, i'm [Hogan Lin], a passionate self-taught full-stack developer from taiwan. 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 55 mins   ██████████████████░░░░░░░   71.84 %
-JavaScript   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-YAML         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Text         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+TypeScript   7 hrs 6 mins    █████████████████▓░░░░░░░   70.20 %
+YAML         1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+JavaScript   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Markdown     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Text         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
