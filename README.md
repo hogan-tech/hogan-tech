@@ -30,8 +30,8 @@ hi, i'm [Hogan Lin], a passionate self-taught full-stack developer from taiwan. 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       8 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.00 %
-Other            6 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+JavaScript       8 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.41 %
+Other            6 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.11 %
 ```
 
 <!--END_SECTION:waka-->
