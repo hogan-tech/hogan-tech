@@ -47,8 +47,7 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 13 mins    ████████████▒░░░░░░░░░░░░   48.75 %
-Other        1 hr            ██████████░░░░░░░░░░░░░░░   39.56 %
+Other        1 hr 22 mins    █████████████████████▒░░░   84.88 %
 ```
 
 <!--END_SECTION:waka-->
