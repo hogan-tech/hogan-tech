@@ -1,4 +1,4 @@
-### Hi, I'm Hogan 👋
+### Hi, I'm Hogan 👋 
 
 <details><summary>Portfolio-CLICK ME</summary>
 NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
@@ -14,17 +14,21 @@ the things I build.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="288" />
 
-
+<span>
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/hogan-lin-462657190#gh-light-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
-        alt="Connect with me on linkedin">
+        alt="Connect with me on linkedin" height="25" >
 </a>
 <!-- Dark Mode -->
 <a href="https://www.linkedin.com/in/hogan-lin-462657190#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
-        alt="Connect with me on linkedin">
+        alt="Connect with me on linkedin" height="25" >
 </a>
+
+<img src="https://img.shields.io/github/followers/hogan-tech?style=social" height="25" />
+</span>
+
 
 **languages and tools:**  
 
