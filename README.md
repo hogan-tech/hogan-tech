@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Hogan 👋
 
 <details><summary>Portfolio-CLICK ME</summary>
 NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
@@ -8,10 +8,23 @@ Ansir：https://www.ansir.com.tw/ <br />
 Ainimal：https://official.ainimal.io/#/ <br />
 </details>
 
-hi, i'm [Hogan Lin], a passionate self-taught full-stack developer from taiwan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm a passionate self-taught full-stack developer from taiwan. my passion for software lies with dreaming up ideas and
+making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of
+the things I build.
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="288" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="288" />
 
+
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/hogan-lin-462657190#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
+        alt="Connect with me on linkedin">
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/hogan-lin-462657190#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
+        alt="Connect with me on linkedin">
+</a>
 
 **languages and tools:**  
 
@@ -36,17 +49,8 @@ Other        1 hr            ██████████░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br />
-<br />
-<br />
-<br />
+
 📈 my github stats
 <br />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
 <br />
- 
- 
-
-
-
- 
