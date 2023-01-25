@@ -42,7 +42,7 @@ Other        1 hr            ██████████░░░░░░░
 <br />
 📈 my github stats
 <br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=purmonth&show_icons=true&theme=gruvbox" alt="purmonth" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
 <br />
  
  
