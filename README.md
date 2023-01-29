@@ -47,7 +47,7 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```text
-Other        4 hrs 22 mins   ██████████████████████▓░░   91.20 %
+Other        4 hrs 22 mins   █████████████████████▓░░░   86.91 %
 ```
 
 <!--END_SECTION:waka-->
