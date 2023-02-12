@@ -47,12 +47,8 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 40 mins   █████████████████▓░░░░░░░   71.20 %
-JavaScript   1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Dart         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   3 hrs 40 mins   █████████████▓░░░░░░░░░░░   55.14 %
+Other        1 hr 30 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
 ```
 
 <!--END_SECTION:waka-->
