@@ -47,7 +47,11 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```text
-C#   0 secs          █████████████████████████   100.00 %
+TypeScript   1 hr 59 mins    ██████████████████████░░░   87.83 %
+JavaScript   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
