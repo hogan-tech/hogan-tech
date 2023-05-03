@@ -47,9 +47,9 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       5 hrs 34 mins   ████████████░░░░░░░░░░░░░   48.21 %
-C#               2 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-Other            1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+TypeScript       3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.35 %
+C#               2 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 %
+Other            1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
 ```
 
 <!--END_SECTION:waka-->
