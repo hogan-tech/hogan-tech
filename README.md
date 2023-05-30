@@ -47,11 +47,11 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       10 hrs 48 mins  ██████████████████▓░░░░░░   74.17 %
-JavaScript       1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Other            1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-C#               50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Markdown         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+TypeScript       8 hrs 18 mins   ███████████████████▓░░░░░   78.02 %
+JavaScript       1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+C#               38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Markdown         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Docker           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
