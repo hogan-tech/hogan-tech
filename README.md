@@ -46,7 +46,7 @@ the things I build.
 <br />
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript       4 hrs 55 mins   ██████████████▓░░░░░░░░░░   58.70 %
 C#               1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
 JavaScript       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
