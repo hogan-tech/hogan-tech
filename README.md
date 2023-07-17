@@ -49,11 +49,11 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.93 %
-TypeScript   8 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 %
-Python       7 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-Other        2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-C#           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JavaScript   10 hrs 54 mins  █████████░░░░░░░░░░░░░░░░   36.37 %
+TypeScript   8 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Python       6 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
+C++          1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Other        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
