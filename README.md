@@ -66,7 +66,7 @@ CSS          17 mins         █░░░░░░░░░░░░░░░░
 <br />
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
-<img src="https://leetcard.jacoblin.cool/purmonth" alt="hogan-tech-leetcode" />
+<img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
 </span>
 <br />
 
