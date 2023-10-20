@@ -64,5 +64,10 @@ CSS          17 mins         █░░░░░░░░░░░░░░░░
 
 📈 my github stats
 <br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
+<img src="https://leetcard.jacoblin.cool/purmonth" alt="hogan-tech-leetcode" />
+</span>
 <br />
+
+
