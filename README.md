@@ -50,10 +50,10 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        7 hrs 30 mins   ██████████████▒░░░░░░░░░░   56.80 %
-HTML         2 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-JavaScript   1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Python       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Other        7 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.97 %
+HTML         2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+Python       2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+JavaScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
 ```
 
 <!--END_SECTION:waka-->
