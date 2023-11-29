@@ -50,9 +50,9 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        6 hrs 29 mins   █████████████████████░░░░   83.75 %
-Python       1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other        5 hrs 29 mins   ██████████████████████▒░░   88.97 %
+Python       40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
