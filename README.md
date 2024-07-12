@@ -20,7 +20,7 @@ the things I build.
 
 <img src="https://komarev.com/ghpvc/?username=hogan-tech&style=flat"  height="25">
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/hogan-lin-462657190#gh-light-mode-only">
+<a href="www.linkedin.com/in/hoganlin#gh-light-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
