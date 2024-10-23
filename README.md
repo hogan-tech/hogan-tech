@@ -25,7 +25,7 @@ the things I build.
         alt="Connect with me on linkedin" height="25" >
 </a>
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/hogan-lin-462657190#gh-dark-mode-only">
+<a href="https://www.linkedin.com/in/hoganlin#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
