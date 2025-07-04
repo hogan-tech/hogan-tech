@@ -50,10 +50,10 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 49 mins   ████████████▓░░░░░░░░░░░░   50.24 %
-Other      3 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   42.07 %
-Markdown   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Text       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Other      4 hrs 11 mins   ██████████████████▓░░░░░░   74.15 %
+Python     1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+Markdown   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Text       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
