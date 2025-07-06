@@ -1,6 +1,6 @@
 ### Hi, I'm Hogan 👋 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="266" />
+<!--img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="266" /-->
 
 <details><summary>Portfolio-CLICK ME</summary>
 NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
