@@ -1,6 +1,4 @@
-### Hi, I'm Hogan 👋 
-
-<!--img align="right" alt="GIF" src="https://user-images.githubusercontent.com/19164071/147938770-eddf72e3-9b2d-42d0-a73c-5ffa595c2e17.gif" width="450" height="266" /-->
+### Hi, I'm Hogan 👋
 
 <details><summary>Portfolio-CLICK ME</summary>
 NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
@@ -13,8 +11,6 @@ Ainimal：https://official.ainimal.io/#/ <br />
 I'm a passionate self-taught full-stack developer from taiwan. my passion for software lies with dreaming up ideas and
 making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of
 the things I build.
-
-
 
 <span>
 
@@ -32,10 +28,9 @@ the things I build.
 <img src="https://img.shields.io/github/followers/hogan-tech?style=social" height="25" />
 </span>
 
-
-
 📊 **this week i spent my time on:**
 <br />
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,17 +43,17 @@ TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+📈 github stats
 
-
-
-📈 my github stats
 <br />
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
 </span>
+
+🏆 leetcode stats
+
+<br />
 <span>
 <img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 </span>
 <br />
-
-
