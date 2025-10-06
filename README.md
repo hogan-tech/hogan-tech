@@ -55,7 +55,9 @@ TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░
 <br />
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
-<img src="https://leetcard.jacoblin.cool/hogantech" alt="hogan-tech-leetcode" />
+</span>
+<span>
+<img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 </span>
 <br />
 

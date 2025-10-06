@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Stats (WakaTime + LeetCode)
 
 on:
   workflow_dispatch:
@@ -7,10 +7,40 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
+  # ---------- WakaTime job ----------
   update-readme:
-    name: Update this repo's README
+    name: Update this repo's README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+  # ---------- LeetCode job ----------
+  update-leetcode:
+    name: Update local LeetCode stats card
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install node-fetch@3
+
+      - name: Generate latest LeetCode SVG
+        run: |
+          mkdir -p assets
+          node .github/scripts/update_leetcode.js
+
+      - name: Commit and push updated LeetCode card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/leetcode.svg
+          git commit -m "chore: update LeetCode stats" || echo "No changes to commit"
+          git push
