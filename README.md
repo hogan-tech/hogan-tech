@@ -34,11 +34,11 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        13 hrs 3 mins   ██████████████████▒░░░░░░   73.66 %
-Python       2 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Markdown     37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-YAML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other        13 hrs 3 mins   ██████████████████░░░░░░░   72.08 %
+Python       2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Markdown     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+YAML         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
