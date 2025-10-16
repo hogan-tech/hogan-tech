@@ -34,11 +34,11 @@ the things I build.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        10 hrs 55 mins  ████████████▒░░░░░░░░░░░░   48.88 %
-TypeScript   4 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-Python       3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-Java         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Docker       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Other        9 hrs 53 mins   █████████████░░░░░░░░░░░░   51.64 %
+TypeScript   3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+Python       3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Docker       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
