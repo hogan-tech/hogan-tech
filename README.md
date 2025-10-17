@@ -22,16 +22,6 @@ The repository has gained over 480+ stars and is designed to help developers pre
 <span>
 
 <img src="https://komarev.com/ghpvc/?username=hogan-tech&style=flat"  height="25">
-<!-- Light Mode -->
-<a href="www.linkedin.com/in/hoganlin#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
-        alt="Connect with me on linkedin" height="25" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/hoganlin#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
-        alt="Connect with me on linkedin" height="25" >
-</a>
 <img src="https://img.shields.io/github/followers/hogan-tech?style=social" height="25" />
 </span>
 
