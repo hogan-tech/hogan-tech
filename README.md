@@ -1,4 +1,4 @@
-### Hi, I'm Hogan 
+## Hi, I'm Hogan 
 
 <details><summary>Portfolio-CLICK ME</summary>
 NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
@@ -25,7 +25,7 @@ The repository has gained over 480+ stars and is designed to help developers pre
 <img src="https://img.shields.io/github/followers/hogan-tech?style=social" height="25" />
 </span>
 
-**this week i spent my time on:**
+**This week I spent my time on:**
 <br />
 
 <!--START_SECTION:waka-->
@@ -40,17 +40,20 @@ XML               45 mins         █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Github Stats
+## Github Stats
 
 <br />
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
 </span>
 
-Leetcode Stats
+## Leetcode Stats
 
 <br />
 <span>
 <img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 </span>
 <br />
+
+## Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=hogan-tech&theme=kimbie_dark&no-frame=true&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
