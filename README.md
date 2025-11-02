@@ -8,8 +8,8 @@ Ansir：https://www.ansir.com.tw/ <br />
 Ainimal：https://official.ainimal.io/#/ <br />
 </details>
 
-I'm a passionate self-taught full-stack developer from taiwan. my passion for software lies with dreaming up ideas and
-making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of
+I'm a passionate self-taught full-stack developer from Taiwan. My passion for software lies in dreaming up ideas and
+making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of
 the things I build.
 
 ### Featured Project
@@ -56,4 +56,4 @@ XML               45 mins         █░░░░░░░░░░░░░░�
 <br />
 
 ## Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=hogan-tech&theme=kimbie_dark&no-frame=true&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hogan-tech&theme=kimbie_dark&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
