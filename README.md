@@ -31,10 +31,11 @@ The repository has gained over 480+ stars and is designed to help developers pre
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 59 mins    ██████████████████████░░░   88.40 %
-Python     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other        1 hr 59 mins    █████████████████▓░░░░░░░   70.50 %
+Python       16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Java         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Git Config   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
