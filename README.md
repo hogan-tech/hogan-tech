@@ -31,9 +31,9 @@ The repository has gained over 480+ stars and is designed to help developers pre
 <!--START_SECTION:waka-->
 
 ```txt
-Other    7 hrs                 ████████████████████████░   96.24 %
-Groovy   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Java     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other    8 hrs                 ████████████████████████▒   96.69 %
+Groovy   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Java     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
