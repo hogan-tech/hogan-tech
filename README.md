@@ -31,7 +31,7 @@ The repository has gained over 480+ stars and is designed to help developers pre
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 hrs                 █████████████████████████   100.00 %
+Other   2 hrs                 █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
