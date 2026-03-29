@@ -24,14 +24,19 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
+      - name: Install Node dependencies
         run: npm install node-fetch@3
+
+      - name: Ensure output directories exist
+        run: |
+          mkdir -p profile
+          mkdir -p assets
 
       - name: Generate GitHub stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=hogan-tech&show_icons=true
+          options: username=hogan-tech&show_icons=true&theme=gruvbox
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,8 +44,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=hogan-tech&layout=compact&langs_count=6
+          options: username=hogan-tech&layout=compact&langs_count=6&theme=gruvbox
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: hogan-tech
+          output_path: profile/trophy.svg
+          theme: kimbie_dark
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update WakaTime section
@@ -49,9 +62,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Generate latest LeetCode SVG
-        run: |
-          mkdir -p assets
-          node .github/scripts/update_leetcode.js
+        run: node .github/scripts/update_leetcode.js
 
       - name: Commit and push all updates
         run: |

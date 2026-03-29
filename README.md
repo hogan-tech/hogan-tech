@@ -44,7 +44,6 @@ Java     0 secs                ░░░░░░░░░░░░░░░░�
 <br />
 <span>
   <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </span>
 
 ## Leetcode Stats
@@ -56,4 +55,6 @@ Java     0 secs                ░░░░░░░░░░░░░░░░�
 <br />
 
 ## Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=hogan-tech&theme=kimbie_dark&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<span>
+  <img src="./profile/trophy.svg" alt="GitHub Trophy" />
+</span>
