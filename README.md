@@ -1,4 +1,4 @@
-## Hi, I'm Hogan 
+## Hi, I'm Hogan
 
 <details><summary>Portfolio-CLICK ME</summary>
 NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
@@ -8,9 +8,9 @@ Ansir：https://www.ansir.com.tw/ <br />
 Ainimal：https://official.ainimal.io/#/ <br />
 </details>
 
-I'm a passionate self-taught full-stack developer from Taiwan. My passion for software lies in dreaming up ideas and
-making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of
-the things I build.
+Software Engineer → Indie Builder → AI Systems
+
+I build products, content, and systems at the intersection of engineering and distribution.
 
 ### Featured Project
 **[LeetCode Solution Repository](https://github.com/hogan-tech/leetcode-solution)**  
@@ -43,7 +43,8 @@ Java     0 secs                ░░░░░░░░░░░░░░░░�
 
 <br />
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=hogan-tech&show_icons=true&theme=gruvbox" alt="hogan-tech" />
+<img src="./profile/stats.svg" />
+<img src="./profile/top-langs.svg" height="180"/>
 </span>
 
 ## Leetcode Stats
