@@ -52,7 +52,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: hogan-tech
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           theme: kimbie_dark
           token: ${{ secrets.GITHUB_TOKEN }}
 
