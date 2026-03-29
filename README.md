@@ -43,8 +43,8 @@ Java     0 secs                ░░░░░░░░░░░░░░░░�
 
 <br />
 <span>
-<img src="./profile/stats.svg" />
-<img src="./profile/top-langs.svg" height="180"/>
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </span>
 
 ## Leetcode Stats
