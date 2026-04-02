@@ -13,10 +13,13 @@ Software Engineer → Indie Builder → AI Systems
 I build products, content, and systems at the intersection of engineering and distribution.
 
 ### Featured Project
-**[LeetCode Solution Repository](https://github.com/hogan-tech/leetcode-solution)**  
+**[Life AI](https://github.com/hogan-tech/life-ai)**  
+Turn any idea into a living AI world in one command. 
+life-ai takes a short idea string and generates a cast of characters with distinct personalities, goals, and relationships — then simulates how they interact over multiple rounds.
+
+**[LeetCode Solution](https://github.com/hogan-tech/leetcode-solution)**  
 A comprehensive collection of 4,000+ LeetCode problem solutions written in Python, C++, JavaScript, TypeScript, and SQL.  
 The repository has gained over 480+ stars and is designed to help developers prepare for coding interviews, learn algorithms, and compare multi-language approaches.
-
 
 
 <span>
