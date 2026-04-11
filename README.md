@@ -1,38 +1,51 @@
 ## Hi, I'm Hogan
 
-<details><summary>Portfolio-CLICK ME</summary>
-NCKU Modular System：https://modular-course.science.ncku.edu.tw/index.php <br />
-NCKU Bill Platform：https://pay.ufo.ncku.edu.tw/mobilepay/ <br />
-NUTN USR：http://tfre.nutn.edu.tw/ <br />
-Ansir：https://www.ansir.com.tw/ <br />
-Ainimal：https://official.ainimal.io/#/ <br />
+Software Engineer building AI systems that turn ideas into distribution.
+
+I build products, content, and systems at the intersection of engineering, AI, and real-world usage.
+
+<details><summary>Portfolio</summary>
+
+NCKU Modular System: https://modular-course.science.ncku.edu.tw/index.php  
+NCKU Bill Platform: https://pay.ufo.ncku.edu.tw/mobilepay/  
+NUTN USR: http://tfre.nutn.edu.tw/  
+Ansir: https://www.ansir.com.tw/  
+Ainimal: https://official.ainimal.io/#/  
+
 </details>
 
-Software Engineer → Indie Builder → AI Systems
+---
 
-I build products, content, and systems at the intersection of engineering and distribution.
+## Featured Projects
 
-### Featured Project
-**[Life AI](https://github.com/hogan-tech/life-ai)**  
-Turn any idea into a living AI world in one command. 
-life-ai takes a short idea string and generates a cast of characters with distinct personalities, goals, and relationships — then simulates how they interact over multiple rounds.
+### Life AI  
+https://github.com/hogan-tech/life-ai  
 
-**[LeetCode Solution](https://github.com/hogan-tech/leetcode-solution)**  
-A comprehensive collection of 4,000+ LeetCode problem solutions written in Python, C++, JavaScript, TypeScript, and SQL.  
-The repository has gained over 480+ stars and is designed to help developers prepare for coding interviews, learn algorithms, and compare multi-language approaches.
+Turn any idea into a living AI world in one command.  
+Life AI generates agents with distinct personalities, goals, and relationships — then simulates how they interact over multiple rounds.
 
+Early-stage system for multi-agent simulation and idea exploration.
+
+---
+
+### LeetCode Solution  
+https://github.com/hogan-tech/leetcode-solution  
+
+4,000+ LeetCode solutions across Python, C++, JavaScript, TypeScript, and SQL.  
+480+ stars. Used by developers to prepare for interviews and compare multi-language approaches.
+
+---
 
 <span>
-
-<img src="https://komarev.com/ghpvc/?username=hogan-tech&style=flat"  height="25">
+<img src="https://komarev.com/ghpvc/?username=hogan-tech&style=flat" height="25">
 <img src="https://img.shields.io/github/followers/hogan-tech?style=social" height="25" />
 </span>
 
-**This week I spent my time on:**
-<br />
+---
+
+## This week I spent my time on:
 
 <!--START_SECTION:waka-->
-
 ```txt
 Other        6 hrs 29 mins         ████████████████░░░░░░░░░   63.92 %
 Markdown     1 hr 30 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
@@ -40,25 +53,28 @@ Python       49 mins               ██░░░░░░░░░░░░░
 YAML         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 Text         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
-
 <!--END_SECTION:waka-->
 
-## Github Stats
+---
 
-<br />
+## GitHub Stats
+
 <span>
   <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
 </span>
 
-## Leetcode Stats
+---
 
-<br />
+## LeetCode Stats
+
 <span>
 <img src="./assets/leetcode.svg" alt="LeetCode Stats" />
 </span>
-<br />
 
-## Trophies:
+---
+
+## Trophies
+
 <span>
   <img src="./profile/trophy.svg" alt="GitHub Trophy" />
 </span>
