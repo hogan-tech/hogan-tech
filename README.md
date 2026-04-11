@@ -46,6 +46,7 @@ https://github.com/hogan-tech/leetcode-solution
 ## This week I spent my time on:
 
 <!--START_SECTION:waka-->
+
 ```txt
 Other        6 hrs 29 mins         ████████████████░░░░░░░░░   63.92 %
 Markdown     1 hr 30 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
@@ -53,6 +54,7 @@ Python       49 mins               ██░░░░░░░░░░░░░
 YAML         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 Text         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
