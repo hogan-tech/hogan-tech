@@ -48,11 +48,11 @@ https://github.com/hogan-tech/leetcode-solution
 <!--START_SECTION:waka-->
 
 ```txt
-Other        10 hrs 55 mins        █████████████████▒░░░░░░░   68.95 %
-Python       1 hr 36 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Bash         52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Markdown     52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-TypeScript   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other        9 hrs 47 mins         ██████████████░░░░░░░░░░░   56.36 %
+Python       2 hrs 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+TypeScript   2 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Bash         1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Markdown     56 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
