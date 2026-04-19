@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+concurrency:
+  group: update-readme-stats
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -69,5 +73,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md profile/*.svg assets/leetcode.svg
-          git commit -m "chore: update README stats" || echo "No changes to commit"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update README stats"
+          git fetch origin main
+          git rebase origin/main
+          git push || (sleep 5 && git fetch origin main && git rebase origin/main && git push)
