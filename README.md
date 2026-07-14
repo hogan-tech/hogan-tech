@@ -29,6 +29,19 @@ A multi-agent content system: a planner shapes the idea, platform-native writers
 
 <sub>Built under Meridian Global LLC · NYC × Taipei</sub>
 
+### [brand-loom](https://github.com/hogan-tech/brand-loom) — open-source marketing skills, any model
+ 
+Open-source marketing skills that run on any model — with a hosted brand-memory engine. No coding agent required.
+ 
+The open core of Neoxra: model-agnostic skills — hooks, captions, SEO outlines, content repurposing — that you `pip install` and run on OpenAI, Anthropic, Gemini, or a local model (BYOK). The hosted brand-memory engine and multi-platform orchestration live at [neoxra.com](https://neoxra.com).
+ 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=flat" />
+  <img src="https://img.shields.io/pypi/v/brand-loom?style=flat&logo=pypi&logoColor=white&label=PyPI" />
+</p>
+<sub>Open core · <code>pip install brand-loom</code></sub>
+
 ---
 
 ## Featured
