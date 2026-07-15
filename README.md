@@ -71,11 +71,11 @@ Turn any idea into a living AI world in one command: generates agents with disti
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 hrs 46 mins        █████████▒░░░░░░░░░░░░░░░   37.15 %
-TypeScript   12 hrs 39 mins        ████████▓░░░░░░░░░░░░░░░░   34.14 %
-Other        8 hrs 6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Markdown     1 hr 15 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Bash         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+TypeScript   12 hrs 30 mins        █████████░░░░░░░░░░░░░░░░   35.35 %
+Other        10 hrs 1 min          ███████░░░░░░░░░░░░░░░░░░   28.34 %
+Python       9 hrs 49 mins         ███████░░░░░░░░░░░░░░░░░░   27.74 %
+Markdown     1 hr 27 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Bash         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
